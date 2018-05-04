@@ -183,3 +183,4 @@ venv.bak/
 
 # End of https://www.gitignore.io/api/linux,emacs,python
 xss/xss_wrap.c
+xss/xss.py
